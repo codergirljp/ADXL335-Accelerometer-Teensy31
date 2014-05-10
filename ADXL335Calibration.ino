@@ -1,5 +1,6 @@
 // Calibration Sketch for the ADXL335 
-// for use with calibration instructions found at http://codergirljp.blogspot.com/ 
+// For use with calibration instructions found at:
+//   http://codergirljp.blogspot.com/2014/05/adxl335-accelerometer-on-teensy-31.html
 //
 // Modified from instructions found https://learn.adafruit.com/adafruit-analog-accelerometer-breakouts/programming 
 // to run on the Teensy 3.1 without requiring any additional hardware setup
