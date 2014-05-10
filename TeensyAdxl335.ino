@@ -1,6 +1,8 @@
 // Sketch for the ADXL335 
 // Reads the raw X, Y Z values from the accelerometer and normalizes them to +/-1 range.
 // Tested on the Teensy 3.1
+// For use with project found at 
+// http://codergirljp.blogspot.com/2014/05/adxl335-accelerometer-on-teensy-31.html
 
 // Analog Input Pins used for the X,Y,Z 
 const int xInput = 0;  // A0 on the Teensy 3.1
