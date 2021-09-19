@@ -11,6 +11,6 @@ This is a sketch modified from the Adafruit calibration code to allow calibratio
 
 TeensyAdxl335.ino
 This is a small sketch that used the measured values from the calibration of the accelerometer 
-to noralize x y z values to +/- 1 G's 
+to normalize x y z values to +/- 1 G's 
 The sketch sends normalized measured values as a space delimited list to the serial port over a USB connection.
 
